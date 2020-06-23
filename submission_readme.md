@@ -1,9 +1,11 @@
 # D3 Homework - Data Journalism and D3
 
+Link to the Interactive chart in action ---> **https://sanjive.github.io/BCS_16_D3-Data-Journalism/data-journalism/**
+
 ## Assignment details: 
 ### An interactive dashboard to view the Behavioral Health Risk Factor. (The data set from U.S. Census Bureau for year 2014 ACS 1-year estimate)
 
-#### https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml.
+ Data Source ---> https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml.
  
 ## Submissions:
 1. Project Repository on GitHubt called `BCS_16_D3-Data-Journalism`.
